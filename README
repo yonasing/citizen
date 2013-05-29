@@ -1,0 +1,7 @@
+Citizen is a system to efficiently mine the social dynamics in the online world for efficient ...
+-the main goal is to design and implement mining and visualization tools to gather knowledge from the social network that can help in decission making
+
+tools:
+-Python
+-sql
+-others like weka,matlab, R, gephi
